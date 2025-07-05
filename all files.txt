@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Aking Unang Website</title>
+</head>
+<body style="background-color: lightblue;">
+<h1>Kamusta Mundo!</h1>
+<p>Excited akong matuto ng HTML.</p>
+
+<img src="https://www.w3schools.com/html/img_girl.jpg" alt="Batang babae" width="300">
+
+<p><a href="https://www.google.com" target="_blank">Bisitahin ang Google</a></p>
+
+<button>Click Mo Ako</button>
+
+<hr>
+
+<form>
+<label for="pangalan">Ilagay ang iyong pangalan:</label><br>
+<input type="text" id="pangalan" name="pangalan"><br><br>
+<input type="submit" value="Isumite">
+</form>
+</body>
+</html>
